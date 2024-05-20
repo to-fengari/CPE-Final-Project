@@ -1,0 +1,70 @@
+What is the second derivative of f(x)= e^2x?
+A. e^2x
+B. 2e
+C. 4x^2e
+D. 2Se^2x
+Triangle ABC is right-angled at B.  If AB=9cm and BC=11cm, what is the tangent ratio of angle A to the nearest hundredth?
+A. 0.73
+B. 0.64
+C. 1.22
+D. 1.36
+The alloy which is formed by the mixture of Copper and Zinc
+A. Solder
+B. Bronze
+C. Brass
+D. Gold
+What is the unit used to measure the amount of radioactivity?
+A. Gray(Gy)
+B. Roentgen(R)
+C. Becquerel(Bq)
+D. Sievert(Sv)
+What is called the term which refers to an unhealthful intake of dietary nutrients?
+A. Starvation
+B. Malnutrition
+C. Overcosumption
+D. Stress Eating
+This is the process by which toxins are passed from one trophic level to the next within a food web.
+A. Bioaccumulation
+B. Predation
+C. Biomagnification
+D. Ecological Pyramid
+What is an embedded system?
+A. A device that accepts information (in the form of digitalized data) and manipulates it
+B. A computer present in a single integrated circuit which is dedicated to perform one task or designed to execute a specific operation
+C. A set of instructions, data or programs used to operate computers and execute specific tasks.
+D. A microprocessor-based computer hardware system with software that is designed to perform a dedicated function.
+This is an element in communication that refers to the person who conveys his thoughts, message or ideas.
+A. Message
+B. Sender
+C. Channel
+D. Receiver
+It is a discipline that deals with the structured approach of gathering, displaying, classifying, assessing and measuring qualitative and numerical data for successful decision-making
+A. Statistics
+B. Mean
+C. Data
+D. Population
+Why did Jose Rizal study in Europe?
+A. His parents forced him to go there.
+B. To gain knowledge and experiences that would help him fight for the freedom and rights of the Filipino people.
+C. He wanted to enjoy traveling and exploring new places.
+D. He had no other option for pursuing higher education.
+Which dimension of self involves social skills and interpersonal relationships?
+A. Emotional Self
+B. Social Self
+C. Mental Self
+D. Physical Self
+It was terminated in 1870 due to the unification of Italy?
+A. Prussia
+B. Roman Empire
+C. Papal State
+D. Ottoman Empire
+A  scape which refers to the circulation of mechanical goods and software.
+A. Technoscape
+B. Ethnoscape
+C. Ideoscape
+D. Financescape
+These are mental organizations that individuals use to understand their environments and designate action.
+A. Schema
+B. Assimilation
+C. Self-concept
+D. Adaptation
