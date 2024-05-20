@@ -28,7 +28,7 @@ char enemy::getMove(int playerX, int playerY) const {
 	int dy = _y - playerY;
 	int adx = abs(dx);
 	int ady = abs(dy);
-	
+	distance = adx + ady;
 
 
 	if (distance <= 5) {
